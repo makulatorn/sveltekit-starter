@@ -4,10 +4,10 @@
 
 	export let data;
 </script>
-
 <svelte:head>
   <title>{data.title}</title>
 </svelte:head>
-
-<h1>Mmyellow!</h1>
 <Header />
+
+
+<p>A svelte template ready to go!</p>
